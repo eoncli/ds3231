@@ -1,0 +1,12 @@
+{
+    "name": "ds3231",
+    "author": "eon",
+    "url": "official",
+    "type": "library",
+    "version": "1.0.1",
+    "dependencies": [],
+    "targetPlatforms": [
+        "stm32l0",
+        "stm32g0"
+    ]
+}

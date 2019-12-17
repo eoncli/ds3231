@@ -1,12 +1,8 @@
 {
     "name": "ds3231",
-    "author": "eon",
-    "url": "official",
+    "author": "EonTeam",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "dependencies": [],
-    "targetPlatforms": [
-        "stm32l0",
-        "stm32g0"
-    ]
+    "platforms": ["eoncli/stm32l0", "eoncli/stm32g0"]
 }
